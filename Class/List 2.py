@@ -17,8 +17,8 @@ def favColor():
         c=getcolor()
         secondList.append(c)
     print(x,"favorite color is",c)
-    main()
-    E
+#    main() #run infinite loop!!!!
+
 
 
 
